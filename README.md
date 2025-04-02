@@ -30,7 +30,7 @@ cd Library-management
 ![net](https://github.com/user-attachments/assets/45e7ef0f-0a7f-47ac-ab88-22360bd4121d)
 
 |-----------|------------|
-screenshots/p1.png
+(screenshots/p1.png)
 |-----------|------------|
 |-----------|------------|
 screenshots/p2.png
