@@ -15,22 +15,16 @@ A **Library Management System** built using **.NET** that helps in efficiently m
 
 ## 🛠️ Installation & Setup  
 
-### 1️⃣ Clone the Repository  
-```bash
+### 1 clone the repoRepository
+---bash
 git clone https://github.com/devmiyatra/Library-management.git
 cd Library-management
+### 2 Open in Visual Studio
+1.Open Visual Studio
+2.Click on Open a Project or Solution
+3.Select the Library-management.sln file
+### 3 Run the Application
+*.Press F5 or click on Start in Visual Studio
 
-### 2️⃣ Open in Visual Studio
-Open Visual Studio
-
-Click on Open a Project or Solution
-
-Select the Library-management.sln file
-
-### 3️⃣ Run the Application
-Press F5 or click on Start in Visual Studio
-
-📸 Screenshots
-
-🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## 📸 Screenshots
+[Uploading Add a heading.pdf…]()
