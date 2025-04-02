@@ -31,6 +31,7 @@ cd Library-management
 
 |-----------|------------|
 (image/screenshots/p1.png)
+image/screenshots/p1.png
 |-----------|------------|
 |-----------|------------|
 screenshots/p2.png
